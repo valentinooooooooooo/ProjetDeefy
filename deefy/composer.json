@@ -1,0 +1,9 @@
+{
+    "name": "iutnc/deefy",
+    "description": "Mini-projet Deefy - BUT Informatique S3",
+    "type": "project",
+    "require": { "php": ">=8.0" },
+    "autoload": {
+        "psr-4": { "iutnc\\deefy\\": "src/classes" }
+    }
+}
